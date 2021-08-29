@@ -1,3 +1,3 @@
 {
-  "api100": "http://194.5.176.141/spamer3.php?shomare\u003d"
+  "api100": "https://core.gap.im/v1/user/add.json?mobile\u003d"
 }
