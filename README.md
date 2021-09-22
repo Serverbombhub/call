@@ -1,3 +1,4 @@
 {
-  "api100": "https://core.gap.im/v1/user/add.json?mobile\u003d"
+  "api100": "https://api.torob.com/a/phone/send-pin/?phone_number="
 }
+
